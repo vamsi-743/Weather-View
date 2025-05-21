@@ -79,16 +79,6 @@ A beautiful, modern weather application built with Python's Tkinter GUI toolkit.
 
 ---
 
-## Screenshots
-*(Add screenshots here if desired)*
-
----
-
-## License
-MIT License. See [LICENSE](LICENSE) if provided.
-
----
-
 ## Credits
 - [OpenWeatherMap API](https://openweathermap.org/api)
 - [Pillow (PIL)](https://python-pillow.org/)
